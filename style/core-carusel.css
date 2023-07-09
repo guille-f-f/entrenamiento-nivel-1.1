@@ -29,7 +29,7 @@ h5, th, td {
   padding-left: 10px;
 }
 li {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .btn-modal {
   position: fixed;
