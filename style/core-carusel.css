@@ -28,7 +28,9 @@ h5, th, td {
   color: white;
   padding-left: 10px;
 }
-
+li {
+  color: white;
+}
 .btn-modal {
   position: fixed;
   z-index: 1000;
