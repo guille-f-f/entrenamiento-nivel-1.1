@@ -64,9 +64,8 @@ li {
   min-height: 100vh !important;
   width: auto !important;
   border: none;
-  /* box-shadow: 0 0 3px white; */
 }
-.card video, .card-img-top {
+.card-img-top {
   max-height: 70vh;
   box-shadow: 0 0 2px rgb(120, 116, 210);
   position: relative;
