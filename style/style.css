@@ -19,18 +19,19 @@ body {
     background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("../image/8.jpg");
     /* background-color: black; */
     background-size: contain;
+    background-attachment: fixed;
     background-position: center;
     /* background-repeat: no-repeat; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: var(--color-principal);
     text-shadow: 1px 1px 5px var(--color-sombra);
 }
 h3 {
     margin-bottom: .3rem;
-    font-size: 1.05rem;
+    font-size: 0.8rem;
     color: var(--color-secundario);
     text-align: center;
     text-shadow: 1px 1px 5px var(--color-sombra);
@@ -40,6 +41,9 @@ ul {
     color: var(--color-principal);
     text-align: center;
     text-shadow: 1px 1px 5px var(--color-sombra);
+}
+li {
+    font-size: 0.8rem;
 }
 a {
     color: var(--color-enlaces);
